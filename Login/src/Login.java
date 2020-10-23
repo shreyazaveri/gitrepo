@@ -62,7 +62,8 @@ public class Login extends JFrame implements ActionListener {
 
 	public static void main(String[] args) {
 		
-		//	new Login();
+		//new Login 
+		//Commented because constructed need not be called as it is called automatically when instance of a class is created 
 	}
 
 }
